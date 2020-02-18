@@ -1,0 +1,57 @@
+Technical Program Manager - Nlp/deep Learning
+
+- Experience Required 10 Years (Min 5 Years into Data Science)
+- Exposure to NLP
+- Experience with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn, Numpy, Scipy, Pandas)
+
+Responsibilities :
+
+- Study and transform data science prototypes
+- Design NLP applications
+- Select appropriate annotated datasets for Supervised Learning methods
+- Use effective text representations to transform natural language into useful features
+- Find and implement the right algorithms and tools for NLP tasks
+- Develop NLP systems according to requirements
+- Train the developed model and run evaluation experiments
+- Perform statistical analysis of results and refine models
+- Extend ML libraries and frameworks to apply in NLP tasks
+- Remain updated in the rapidly changing field of machine learning
+
+- Proven hands on experience as an NLP Engineer or similar role (minimum 4 years of relevant experience & 10 plus years of total work experience)
+
+- Understanding of NLP techniques for text representation, semantic extraction techniques, data structures and modeling
+
+- Ability to effectively design software architecture
+
+- Deep understanding of text representation techniques (such as n-grams, bag of words, sentiment analysis etc), statistics and classification algorithms
+
+- Knowledge of Python, Java and R
+
+- Ability to write robust and testable code
+
+- Experience with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn, Numpy, Scipy, Pandas)
+
+- Experience with Deep Learning
+
+- Experience with one or more visualization tools like Tableau, Qlicksense, PowerBi etc
+
+- DB Skills like SQL, NoSQL, Big Data (Medium Proficiency)
+
+- Strong communication skills
+
+- An analytical mind with problem-solving abilities
+
+- Degree in Computer Science, Mathematics, Computational Linguistics or similar field
+
+
+Partner with key business partners and work within team to identify, scope, and execute analytic efforts that leverage unstructured data to answer business questions, solve business needs, and add business value
+
+Implement exploratory text analytics and rules-based text mining
+
+Develop automated workflows to pre-process data for reporting and statistical/deep learning modeling
+
+Develop ontologies/dictionaries or adapt open source ontologies/dictionaries for use in internally developed solutions
+
+Maintain a broad understanding of the pharmaceutical industry (from discovery to commercialization) and be fully engaged with teams, bringing an objective voice to the table, and facilitating decisions grounded in data
+
+Collaborate with other analytics team members to review and provide feedback on the analytics work being done, and be willing to seek feedback from other team members about your own work
